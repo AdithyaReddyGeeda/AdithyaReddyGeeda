@@ -105,9 +105,6 @@ Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaReddyGeeda&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaReddyGeeda&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Connect with Me
 
