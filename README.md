@@ -95,8 +95,8 @@ Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
 - Identified >3 unresolved tickets as 2.5× churn risk; supported targeted retention strategies.
 
 ### Video Action Recognition *(PyTorch, CNN+LSTM, R3D-18)*
-- Deep learning pipeline for **human action recognition** in video (3D CNNs, CNN+LSTM).
-- Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training.
+- Deep learning pipeline for **human action recognition** in video (3D CNNs, CNN+LSTM)
+- Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training
 
 ## GitHub Stats
 
