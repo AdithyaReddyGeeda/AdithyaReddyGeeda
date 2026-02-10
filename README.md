@@ -116,5 +116,3 @@ Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adithyareddygeeda@gmail.com)
 
 ---
-
-*This README appears on your GitHub profile when you create a repo named with your username (e.g. `github.com/yourusername/yourusername`).*
