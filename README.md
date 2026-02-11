@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm an **MS in Engineering Data Science** candidate at the **University of Houston** (May 2026), with a BTech in **Computer Science (AI)** from SRM University. I build systems across **machine learning, deep learning, NLP, and computer vision**—from brain tumor detection and multilingual NLU to video action recognition and LLM-powered recommendation engines.
+I'm an **MS in Engineering Data Science** student at the **University of Houston** (May 2026), with a BTech in **Computer Science (AI)** from SRM University. I build systems across **machine learning, deep learning, NLP, and computer vision**—from brain tumor detection and multilingual NLU to video action recognition and LLM-powered recommendation engines.
 
 - Working on **video action recognition** (CNN+LSTM, R3D-18), **multilingual NLU** (XLM-RoBERTa), and **LLM-based applications**.
 - Experienced in **TensorFlow, PyTorch, prompt engineering, and end-to-end ML pipelines** (Streamlit, Gradio, Flask).
