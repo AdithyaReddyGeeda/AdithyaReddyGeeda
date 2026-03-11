@@ -127,7 +127,3 @@ Skills: Power Apps · Power Automate · Power BI · Power Virtual Agents · Data
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-reddy-geeda)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AdithyaReddyGeeda)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adithyareddygeeda@gmail.com)
-
----
-
-*This README appears on your GitHub profile when you create a repo named with your username (e.g. `github.com/yourusername/yourusername`).*
