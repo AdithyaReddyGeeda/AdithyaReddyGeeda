@@ -20,6 +20,16 @@ Data Science, Probability & Statistics, Machine Learning, Big Data, Digital Imag
 **SRM University** — *Bachelor of Technology, Computer Science (AI)* (June 2024)  
 Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
 
+## Certifications
+
+| Certification | Issuer | Skills |
+|---------------|--------|--------|
+| **AWS Certified AI Practitioner** | Amazon Web Services (AWS) | Cloud Computing · AWS · AWS SageMaker · AWS CloudTrail · AWS Bedrock · Data Analysis |
+| **Microsoft Azure Fundamentals** | Microsoft | Cloud Computing · Azure Services · Azure Security · IaaS · PaaS · SaaS · Azure Pricing & Support |
+| **Microsoft Power Platform Fundamentals** | Microsoft | Power Apps · Power Automate · Power BI · Power Virtual Agents · Dataverse · Low-Code Solutions |
+
+*AWS Certified AI Practitioner: Issued Mar 2026 · Expires Mar 2029 · Credential ID `0c22221198c04350859e16413040a1d8`*
+
 ## Tech Stack
 
 ### Programming Languages & Tools
