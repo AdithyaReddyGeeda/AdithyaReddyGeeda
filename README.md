@@ -1,11 +1,12 @@
 # Hi there, I'm Adithya Reddy Geeda!
 
-**Houston, USA** · [adithyareddygeeda@gmail.com](mailto:adithyareddygeeda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adithya-reddy-geeda) · [GitHub](https://github.com/AdithyaReddyGeeda) . [Portfolio](https://adithya-reddy-geeda.netlify.app/)
+**New York, USA** · [adithyareddygeeda@gmail.com](mailto:adithyareddygeeda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adithya-reddy-geeda) · [GitHub](https://github.com/AdithyaReddyGeeda)
+
 &nbsp;  
 
 ## About Me
 
-I'm an **MS in Engineering Data Science** student at the **University of Houston** (May 2026), with a BTech in **Computer Science (AI)** from SRM University. I build systems across **machine learning, deep learning, NLP, and computer vision**—from brain tumor detection and multilingual NLU to video action recognition and LLM-powered recommendation engines.
+I'm an **MS in Engineering Data Science** candidate at the **University of Houston** (May 2026), with a BTech in **Computer Science (AI)** from SRM University. I build systems across **machine learning, deep learning, NLP, and computer vision**—from brain tumor detection and multilingual NLU to video action recognition and LLM-powered recommendation engines.
 
 - Working on **video action recognition** (CNN+LSTM, R3D-18), **multilingual NLU** (XLM-RoBERTa), and **LLM-based applications**.
 - Experienced in **TensorFlow, PyTorch, prompt engineering, and end-to-end ML pipelines** (Streamlit, Gradio, Flask).
@@ -19,16 +20,6 @@ Data Science, Probability & Statistics, Machine Learning, Big Data, Digital Imag
 
 **SRM University** — *Bachelor of Technology, Computer Science (AI)* (June 2024)  
 Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
-
-## Certifications
-
-| Certification | Issuer | Skills |
-|---------------|--------|--------|
-| **AWS Certified AI Practitioner** | Amazon Web Services (AWS) | Cloud Computing · AWS · AWS SageMaker · AWS CloudTrail · AWS Bedrock · Data Analysis |
-| **Microsoft Azure Fundamentals** | Microsoft | Cloud Computing · Azure Services · Azure Security · IaaS · PaaS · SaaS · Azure Pricing & Support |
-| **Microsoft Power Platform Fundamentals** | Microsoft | Power Apps · Power Automate · Power BI · Power Virtual Agents · Dataverse · Low-Code Solutions |
-
-*AWS Certified AI Practitioner: Issued Mar 2026 · Expires Mar 2029 · Credential ID `0c22221198c04350859e16413040a1d8`*
 
 ## Tech Stack
 
@@ -104,15 +95,37 @@ Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
 - Identified >3 unresolved tickets as 2.5× churn risk; supported targeted retention strategies.
 
 ### Video Action Recognition *(PyTorch, CNN+LSTM, R3D-18)*
-- Deep learning pipeline for **human action recognition** in video (3D CNNs, CNN+LSTM)
-- Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training
+- Deep learning pipeline for **human action recognition** in video (3D CNNs, CNN+LSTM).
+- Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training.
+
+## Certifications
+
+<img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" width="280" />
+
+**AWS Certified AI Practitioner** — *Amazon Web Services (AWS)*  
+*Issued Mar 2026 · Expires Mar 2029* · Credential ID `0c22221198c04350859e16413040a1d8`  
+Skills: Cloud Computing · AWS · AWS SageMaker · AWS CloudTrail · AWS Bedrock · Data Analysis
+
+<img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals" width="280" />
+
+**Microsoft Azure Fundamentals** — *Microsoft*  
+Skills: Cloud Computing · Azure Services · Azure Security · IaaS · PaaS · SaaS · Azure Pricing & Support
+
+<img src="https://img.shields.io/badge/Microsoft_Power_Platform_Fundamentals-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="Microsoft Power Platform Fundamentals" width="280" />
+
+**Microsoft Power Platform Fundamentals** — *Microsoft*  
+Skills: Power Apps · Power Automate · Power BI · Power Virtual Agents · Dataverse · Low-Code Solutions
 
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaReddyGeeda&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaReddyGeeda&theme=default&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaReddyGeeda&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Connect with Me
 
@@ -121,3 +134,5 @@ Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adithyareddygeeda@gmail.com)
 
 ---
+
+*This README appears on your GitHub profile when you create a repo named with your username (e.g. `github.com/yourusername/yourusername`).*
