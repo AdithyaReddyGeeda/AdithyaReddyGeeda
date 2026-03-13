@@ -82,10 +82,9 @@ Python, Deep Learning, DSA, Web Development, Soft Computing ·
 ## Projects
 
 ### Multilingual NLU — Joint Intent Classification & Slot Filling *(Dec 2025)*
-- Fine-tuned **XLM-RoBERTa (278M)** for joint intent (60 classes) and slot filling (BIO + CRF) on the MASSIVE dataset across 20 languages.
-- **86.9%** intent accuracy, **71.5%** slot F1; outperformed LSTM baseline by ~7% in cross-lingual setting.
-- Zero-shot and few-shot transfer; 72–81% on held-out low-resource languages.
-- End-to-end pipeline: tokenization, class-weighted loss, CRF decoding, Streamlit frontend.
+- Fine-tuned XLM-RoBERTa for joint intent classification (60 classes) and slot filling (BIO tagging + CRF) on the MASSIVE dataset across 20 languages
+- Achieved 86.9% intent accuracy and 71.5% slot F1, outperforming LSTM baseline by ∼7% in cross-lingual transfer
+- Implemented zero/few-shot transfer to low-resource languages, demonstrating strong generalization (72–81% intent accuracy)
 
 ### LLM-Powered Intelligent Recommendation Engine & Sales Prediction *(May 2025)*
 - Vector-based recommendation engine using LLMs across 6,810 books; **30%** lower retrieval latency, **35%** higher accuracy.
