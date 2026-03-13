@@ -16,10 +16,10 @@ I'm an **MS in Engineering Data Science** candidate at the **University of Houst
 ## Education
 
 **University of Houston** — *Master of Science, Engineering Data Science* (May 2026)  
-Data Science, Probability & Statistics, Machine Learning, Big Data, Digital Image Processing · CGPA 3.85/4
+Data Science, Probability & Statistics, Machine Learning, Big Data, Digital Image Processing 
 
 **SRM University** — *Bachelor of Technology, Computer Science (AI)* (June 2024)  
-Python, Deep Learning, DSA, Web Development, Soft Computing · CGPA 8.81/10
+Python, Deep Learning, DSA, Web Development, Soft Computing · 
 
 ## Tech Stack
 
