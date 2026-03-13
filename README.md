@@ -69,7 +69,7 @@ Python, Deep Learning, DSA, Web Development, Soft Computing ·
 - Delivered precision 1.0, sensitivity 0.95, and misclassification rate of 2.5%.
 
 ### Data Science Intern — Tavant Technologies, Hyderabad, India *(Sep 2023 – Dec 2023)*
-**GLLM Knowledge Assistant (RAG System)**
+**LLM Knowledge Assistant (RAG System)**
 - Designed and developed an enterprise Retrieval-Augmented Generation (RAG) AI system using LangChain that ingests, chunks, embeds, and indexes all official company documents, enabling employees to ask any question and receive accurate, context-aware answers directly from the internal files powered by GPT-4
 - Built interactive demo modules and real-time performance dashboards for the LangChain-powered RAG pipeline, enhancing prompt engineering, retrieval strategies, embedding quality, and chain orchestration to improve response accuracy by 15%
 - Analyzed GPT-4 outputs across the full LangChain RAG architecture (retrieval + generation stages), identified inaccuracies and hallucinations, then optimized chunking, vector search, prompt techniques, and LangChain agents to deliver a reliable, production-ready internal knowledge assistant for the company
