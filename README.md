@@ -56,6 +56,12 @@ Python, Deep Learning, DSA, Web Development, Soft Computing ·
 
 ## Experience
 
+### Instructional Assistant — University of Houston, USA *(Aug 2025 – Feb 2026)*
+**AI Tools for Teaching & Learning Initiative**
+- Designed and led AI-in-education workshops training 100+ instructors on integrating LLM-based tools into course design and assessment
+- Developed 6+ interactive demos and AI tutoring workflows that enabled AI-assisted content generation and assessment
+- Expanded AI tool adoption across pilot courses, lowering instructor preparation time by ∼30%
+  
 ### Research Intern (Team Lead) — SRM University, India *(Jan 2024 – Apr 2024)*
 **Brain Tumor Detection**
 - Led a team to build a brain tumor detection system using ResNet and VGG16, achieving **97% accuracy**.
@@ -63,10 +69,10 @@ Python, Deep Learning, DSA, Web Development, Soft Computing ·
 - Delivered precision 1.0, sensitivity 0.95, and misclassification rate of 2.5%.
 
 ### Data Science Intern — Tavant Technologies, Hyderabad, India *(Sep 2023 – Dec 2023)*
-**GPT Responsiveness**
-- Developed interactive client demo modules and improved GPT-4 prompt engineering, increasing response accuracy by **15%**.
-- Built responsive dashboards for GPT-4 performance metrics and real-time monitoring.
-- Analyzed outputs, identified inaccuracies, and optimized prompts for a more reliable product experience.
+**GLLM Knowledge Assistant (RAG System)**
+- Designed and developed an enterprise Retrieval-Augmented Generation (RAG) AI system using LangChain that ingests, chunks, embeds, and indexes all official company documents, enabling employees to ask any question and receive accurate, context-aware answers directly from the internal files powered by GPT-4
+- Built interactive demo modules and real-time performance dashboards for the LangChain-powered RAG pipeline, enhancing prompt engineering, retrieval strategies, embedding quality, and chain orchestration to improve response accuracy by 15%
+- Analyzed GPT-4 outputs across the full LangChain RAG architecture (retrieval + generation stages), identified inaccuracies and hallucinations, then optimized chunking, vector search, prompt techniques, and LangChain agents to deliver a reliable, production-ready internal knowledge assistant for the company
 
 ### Research Intern — SRM University, India *(Jan 2023 – May 2023)*
 **Strategies for Preparation of Exhaustive Datasets**
