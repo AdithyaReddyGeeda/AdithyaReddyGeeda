@@ -81,6 +81,11 @@ Python, Deep Learning, DSA, Web Development, Soft Computing ·
 
 ## Projects
 
+### Autonomous Job Search Agent *(Mar 2026)*
+- Developed LLM-powered job aggregation agent ingesting 15k+ postings/week from LinkedIn, Indeed, and Greenhouse via auto- mated scraping + semantic filtering
+- Implemented company blacklist and ranking logic, decreasing irrelevant listings by ∼70%
+- Rolled out full-stack system (FastAPI + React) supporting continuous ingestion, deduplication, and personalized job recommendations
+
 ### Multilingual NLU — Joint Intent Classification & Slot Filling *(Dec 2025)*
 - Fine-tuned XLM-RoBERTa for joint intent classification (60 classes) and slot filling (BIO tagging + CRF) on the MASSIVE dataset across 20 languages
 - Achieved 86.9% intent accuracy and 71.5% slot F1, outperforming LSTM baseline by ∼7% in cross-lingual transfer
