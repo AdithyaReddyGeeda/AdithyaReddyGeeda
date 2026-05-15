@@ -1,7 +1,6 @@
 # Hi there, I'm Adithya!
 
-**Houston, USA** · [adithyareddygeeda@gmail.com](mailto:adithyareddygeeda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adithya-reddy-geeda) · [GitHub](https://github.com/AdithyaReddyGeeda)  · [Portfolio](https://adithya-reddy-geeda.netlify.app/)
-&nbsp;  
+**Houston, USA** · [adithyareddygeeda@gmail.com](mailto:adithyareddygeeda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adithya-reddy-geeda) · [GitHub](https://github.com/AdithyaReddyGeeda)  
 
 ## About Me
 
